@@ -1,2 +1,3 @@
-# blog
-Do you want to be informed about Stone clane developments? Our blog page also comes to the rescue! 
+# Welcome!
+
+Hello! Welcome to the Blog! Here you can get information about the latest developments. [To the news](https://github.com/Stoneclane-Development/blog/tree/main/news) Click here to have a look. 
